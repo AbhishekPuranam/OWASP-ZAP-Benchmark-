@@ -1,2 +1,2 @@
 # OWASP-ZAP-Benchmark-
-Project is for OWASP ZAP Benchmark results
+Output for OWASP Benchmark Version 2.10 results
